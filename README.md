@@ -1,4 +1,4 @@
 # GameOfLife
 This i a simple game int javafx
 
-[img/view.gif]
+![image](img/view.gif)
