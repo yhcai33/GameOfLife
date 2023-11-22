@@ -1,4 +1,4 @@
 # GameOfLife
-This i a simple game int javafx
+This is a simple game in javafx
 
 ![image](img/view.gif)
